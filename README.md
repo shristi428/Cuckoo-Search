@@ -1,2 +1,2 @@
-# firefly
-task scheduling with the help of firefly algorithm 
+# Cuckoo Search
+Job Shop scheduling with the help of cuckoo search algorithm 
