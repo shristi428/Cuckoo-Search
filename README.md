@@ -1,2 +1,2 @@
-# Cuckoo Search
-Job Shop scheduling with the help of cuckoo search algorithm 
+# branch and bound
+Job Shop scheduling with the help of branch and bound algorithm 
